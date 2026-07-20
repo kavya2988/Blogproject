@@ -12,7 +12,7 @@ import P2 from "../assets/p2.png"
 import P3 from "../assets/p3.png"
 import BlogImage from "../assets/blogImage.png"
 import { useNavigate } from 'react-router-dom';
-import Footer from './common/Footer'
+import Footer from './Common/Footer'
 
 function Home() {
     const navigate = useNavigate()

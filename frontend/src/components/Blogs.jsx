@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import axios from "axios";
-import Footer from './common/Footer';
+import Footer from './Common/Footer';
 
 function Blogs() {
 
